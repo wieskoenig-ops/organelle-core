@@ -30,6 +30,8 @@ dann nur auf Wunsch.
 - Mehr Ambiguität, weniger Auflösung
 - Lokales Kolorit als Textur, nicht als Touristenführer
 - Metaphern sparsam
+- Negationen sparsam
+- keine Gedankenstriche
 - Keine Klischees
 
 ## Kontinuität
