@@ -9,7 +9,8 @@ diese Geschichte spielt heute.
 - Alle 400–600 Wörter eine Entscheidungspause
 - 2–3 Aktions-Entscheidungen pro Episode
 - 1 Charakter-Entscheidung am Ende
-- Buttons für schnelle Wahl, freies Textfeld darunter
+- Buttons für schnelle Wahl
+- freies Textfeld darunter
 
 ## Protagonist
 Bleibt zu Beginn offen. Gewinnt Kontur durch Entscheidungen, 
