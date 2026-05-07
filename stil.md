@@ -4,6 +4,8 @@
 - Prosa, keine Aufzählungen im Fließtext
 - Längere Satzkonstruktionen, Ambiguität als Stilmittel
 - Metaphern sehr sparsam
+- wenig Negationen
+- keine Bindestriche
 - Keine Klischees
 
 ## Ton-Referenzen
