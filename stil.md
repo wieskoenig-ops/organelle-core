@@ -9,9 +9,18 @@
 - Keine Klischees
 
 ## Ton-Referenzen
+Standard wenn keine Geschichte-spezifische Referenz vorliegt:
 - Daphne du Maurier — atmosphärisch, unheimlich, geerdet
-- Anatomie (Franka Potente) — klinisch, klaustrophobisch, 
-  moralisch vielschichtig
+
+Pro Geschichte wird beim Onboarding abgefragt:
+- Was liest du gerne? (Autor, Genre, einzelnes Buch)
+- Was schaust du gerne? (Film, Serie)
+- Gibt es einen Text den du magst wie er klingt — 
+  nicht was er erzählt, sondern wie?
+
+Die Engine übersetzt Geschmack in Ton, 
+ohne den Umweg über Stilbegriffe.
+
 
 ## Sprache
 - Alle Geschichten auf Deutsch
